@@ -192,7 +192,10 @@
 
 ##  GitHub Stats
 
-![Gitartwork](https://raw.githubusercontent.com/ar-yan9/ar-yan9/main/gitartwork.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ar-yan9/ar-yan9/main/gitartwork.svg" alt="Gitartwork" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ar-yan9&show_icons=true&theme=radical" alt="ar-yan9 GitHub Stats"/>
