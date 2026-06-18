@@ -3,8 +3,8 @@ name: gitartwork from a contribution graph
 on: 
   push:
   schedule:
-    # Runs automatically every 24 hours to keep the graph updated
     - cron: '* */24 * * *' 
+  workflow_dispatch: # This adds a button to run it manually!
 
 jobs:
   build:
@@ -14,8 +14,6 @@ jobs:
       - uses: actions/checkout@v3
       - uses: jasineri/gitartwork@v1
         with:
-           # The username's contribution graph to use
            user_name: ar-yan9
-           # The text you want it to draw (Keep it short, e.g., 3-7 letters)
            text: ARYAN
       - uses: jasineri/simple-push-action@v1
