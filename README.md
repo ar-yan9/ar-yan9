@@ -192,6 +192,8 @@
 
 ##  GitHub Stats
 
+![Gitartwork](https://raw.githubusercontent.com/ar-yan9/ar-yan9/main/gitartwork.svg)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ar-yan9&show_icons=true&theme=radical" alt="ar-yan9 GitHub Stats"/>
 </p>
@@ -200,7 +202,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ar-yan9&theme=github_dark"/>
 </p>
 
-![Gitartwork](https://raw.githubusercontent.com/ar-yan9/ar-yan9/main/gitartwork.svg)
 
 
 
