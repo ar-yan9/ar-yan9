@@ -43,17 +43,14 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://buymeacoffee.com/tuba.khxn" target="_blank"><img src="https://github.com/tubakhxn/tubakhxn/blob/main/coffee.png" height="30" /></a>
-  <a href="https://www.hackerrank.com/tubak2907?hr_r=1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" /></a>
-  <a href="https://www.leetcode.com/tubak2907" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" /></a>
-  <a href="https://www.postman.com/tubakhxn" target="_blank"><img src="https://github.com/user-attachments/assets/62d2345c-19ea-4765-9e50-aaa4293f3dcf" height="30" /></a>
-  <a href="https://medium.com/@tubakhxn" target="_blank"><img src="https://github.com/user-attachments/assets/eb67a6d0-ad68-4dc9-a4c1-a47c5049c047" height="30" /></a>
-  <a href="https://stackoverflow.com/users/23440027/tuba-khan" target="_blank"><img src="https://github.com/user-attachments/assets/6889f61b-bee8-440b-8126-ae12e2abd74c" height="30" /></a>
-  <a href="https://www.youtube.com/@simplytuba" target="_blank"><img src="https://github.com/user-attachments/assets/9dac9541-3553-4f2e-8d70-923096bbdded" 
-" height="30" /></a>
-
-
-
+  <a href="https://linkedin.com/in/ar-yan9" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a>
+  
+  <a href="https://instagram.com/__ar.yy.an__" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" /></a>
+  
+  <a href="https://twitter.com/AryanKu31738501" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" /></a>
+  
+  <a href="https://discord.gg/hey.aryan23" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" /></a>
+  
 </p>
 
 ---
