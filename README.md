@@ -200,10 +200,6 @@
 ## Certified Achievements
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://www.credly.com/earner/earned/badge/444072b0-38d4-4b36-b2de-67fa3b5a7642" target="_blank">
-    <img src="https://github.com/tubakhxn/tubakhxn/blob/main/Github_Badge1.png" alt="GitHub Certification" height="300">
-  </a>
-
   <a href="https://badgr.com/public/assertions/1HWQ_3IBQEeaC2wmhsYl5w?identity__email=tubak2907@gmail.com" target="_blank">
     <img src="https://badgr.com/public/badges/G0U1YVeOSdGAiytb9Yw6_w/image" alt="Postman API Badge" height="300">
   </a>
@@ -231,6 +227,7 @@
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
+
 
 
 
