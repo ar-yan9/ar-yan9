@@ -197,16 +197,6 @@
 
 ---
 
-## Certified Achievements
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://badgr.com/public/assertions/1HWQ_3IBQEeaC2wmhsYl5w?identity__email=tubak2907@gmail.com" target="_blank">
-    <img src="https://badgr.com/public/badges/G0U1YVeOSdGAiytb9Yw6_w/image" alt="Postman API Badge" height="300">
-  </a>
-</div>
-
-
-
 ##  HackerRank Certifications
 
 <p align="center">
@@ -226,6 +216,7 @@
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
+
 
 
 
